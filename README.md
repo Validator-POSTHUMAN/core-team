@@ -1,4 +1,4 @@
-# POSTHUMAN CORE-TEAM
+# [POSTHUMAN CORE-TEAM](https://posthuman.digital/team)
 
 - [Vladimir Understanding](https://github.com/Antropocosmist) - FULL-TIME ENTHUSIAST
 - [Albert Andrejev](https://github.com/albertandrejev) - FULL-STACK DEVELOPER
