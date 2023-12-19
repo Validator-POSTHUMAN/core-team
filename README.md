@@ -11,3 +11,4 @@
 - [Ekaterina Volkova](https://github.com/loomay) - COMMUNITY DEVELOPER
 - [Sergey Lazuta](https://github.com/orion-s-s) - COMMUNITY DEVELOPER
 - [Vadim CyberG](https://github.com/Vgk88) - TEST-NET DEVELOPMENT
+- [Sergey Stribul](https://github.com/stribulsergey) - FULL-STACK DEVELOPER
