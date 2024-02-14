@@ -6,7 +6,7 @@
 - [Valentin Medniy](https://github.com/Medniyy) - COMMUNITY DEVELOPER                | [Telegram](https://t.me/privetandreynugdejeti) | Discord: medniyy
 - [Mikhail Krogla](https://github.com/krogla) - FULL-STACK DEVELOPER                 | [Telegram](https://t.me/krogla) | Discord: krogla
 - [Evgeny Yakovishin](https://github.com/evgen3000) - BACK-END DEVELOPER             | [Telegram](https://t.me/lhavebeen) | Discord: evgen3000
-- [Danil Milyutin](https://github.com/avallonn) - DESIGN & COMMUNITY                 | [Telegram](https://t.me/ava_lonnn) | Discord:
+- [Danil Milyutin](https://github.com/avallonn) - DESIGN & COMMUNITY                 | [Telegram](https://t.me/ava_lonnn) | Discord: ava_lon
 - [Ekaterina Volkova](https://github.com/loomay) - COMMUNITY DEVELOPER               | [Telegram](https://t.me/loomayy) | Discord: loomay
 - [Sergey Lazuta](https://github.com/orion-s-s) - COMMUNITY DEVELOPER                | [Telegram](https://t.me/s_orion) | Discord: orion8683
 - [Nikita Web34ever](https://github.com/web3validator) - TEST-NET DEVELOPMENT        | [Telegram](https://t.me/web34ever) | Discord: web34ever
