@@ -1,4 +1,4 @@
-# [POSTHUMAN CORE-TEAM](https://posthuman.digital/team)
+# [POSTHUMAN CORE-TEAM](https://posthuman.digital/#rec643937348)
 
 - [Vladimir Understanding](https://github.com/Antropocosmist) - FULL-TIME ENTHUSIAST | [Telegram](https://t.me/antropocosmist) | Discord: antropocosmist
 - [Albert Andrejev](https://github.com/albertandrejev) - FULL-STACK DEVELOPER        | [Telegram](https://t.me/Albert_OpenTech) | Discord: albertopentstaking
