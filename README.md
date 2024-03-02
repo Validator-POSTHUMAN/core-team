@@ -12,3 +12,4 @@
 - [Nikita Web34ever](https://github.com/web3validator) - TEST-NET DEVELOPMENT        | [Telegram](https://t.me/web34ever) | Discord: web34ever
 - [Vadim CyberG](https://github.com/Vgk88) - TEST-NET DEVELOPMENT                    | [Telegram](https://t.me/cryptoq11) | Discord: cyberg
 - [Sergey Stribul](https://github.com/stribulsergey) - FULL-STACK DEVELOPER          | [Telegram](https://t.me/ssargiuz) | Discord: ssargiuz
+- [Asanka Kasum](https://twitter.com/AsankaKasum) - COMMUNITY DEVELOPER              | [Telegram](https://t.me/Asa332) | Discord: asa332
