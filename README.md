@@ -14,18 +14,18 @@
 - [Sergey Stribul](https://github.com/stribulsergey) - FULL-STACK DEVELOPER          | [Telegram](https://t.me/ssargiuz) | Discord: ssargiuz |
 - [Asanka Kasum](https://twitter.com/AsankaKasum) - COMMUNITY DEVELOPER              | [Telegram](https://t.me/Asa332) | Discord: asa332 |
 
-|           NAME         | ROLE | GITHUB | TELEGRAM | DISCORD |
-|------------------------|:-----------------:|:----------------------:|:----:|:------:|
-| Vladimir Understanding | FULL-TIME ENTHUSIAST |                        |  +   |   30   |
-| Albert Andrejev        | FULL-STACK DEVELOPER |                        |      |   25   |
-| Vova Synthetic         | CONTENT CREATOR |                        |  +   |   30   |
-| Valentin Medniy        | COMMUNITY DEVELOPER |                        |      |   25   |
-| Mikhail Krogla         | FULL-STACK DEVELOPER |           +            |      |   20   |
-| Evgeny Yakovishin      | BACK-END DEVELOPER |           +            |      |   20   |
-| Danil Milyutin         | DESIGN & COMMUNITY |                        |  +   |   30   |
-| Ekaterina Volkova      | COMMUNITY DEVELOPER |                        |      |   25   |
-| Sergey Orion           | COMMUNITY DEVELOPER |                        |  +   |   30   |
-| Nikita Web34ever       | TEST-NET DEVELOPMENT |                        |      |   25   |
-| Vadim CyberG           | TEST-NET DEVELOPMENT |           +            |      |   20   |
-| Sergey Stribul         | FULL-STACK DEVELOPER |           +            |      |   20   |
-| Asanka Kasum           | COMMUNITY DEVELOPER |           +            |      |   20   |
+|           NAME         | ROLE                 | GITHUB | TELEGRAM | DISCORD |
+|------------------------|:--------------------:|:----------------------:|:----:|:------:|
+| Vladimir Understanding | FULL-TIME ENTHUSIAST | [Antropocosmist](https://github.com/Antropocosmist)|  +   |   30   |
+| Albert Andrejev        | FULL-STACK DEVELOPER | [albertandrejev](https://github.com/albertandrejev) |      |   25   |
+| Vova Synthetic         | CONTENT CREATOR      | [SyntheticV](https://github.com/SyntheticV) |  +   |   30   |
+| Valentin Medniy        | COMMUNITY DEVELOPER  | [Medniyy](https://github.com/Medniyy) |      |   25   |
+| Mikhail Krogla         | FULL-STACK DEVELOPER | [krogla](https://github.com/krogla) |      |   20   |
+| Evgeny Yakovishin      | BACK-END DEVELOPER   | [evgen3000](https://github.com/evgen3000) |      |   20   |
+| Danil Milyutin         | DESIGN & COMMUNITY   | [avallonn](https://github.com/avallonn) |  +   |   30   |
+| Ekaterina Volkova      | COMMUNITY DEVELOPER  | [loomay](https://github.com/loomay) |      |   25   |
+| Sergey Orion           | COMMUNITY DEVELOPER  | [orion-s-s](https://github.com/orion-s-s) |  +   |   30   |
+| Nikita Web34ever       | TEST-NET DEVELOPMENT | [web3validator](https://github.com/web3validator) |      |   25   |
+| Vadim CyberG           | TEST-NET DEVELOPMENT | [Vgk88](https://github.com/Vgk88) |      |   20   |
+| Sergey Stribul         | FULL-STACK DEVELOPER | [stribulsergey](https://github.com/stribulsergey) |      |   20   |
+| Asanka Kasum           | COMMUNITY DEVELOPER  | [AsankaKasum](https://twitter.com/AsankaKasum) |      |   20   |
