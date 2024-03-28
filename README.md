@@ -2,7 +2,7 @@
 
 - [Vladimir Understanding](https://github.com/Antropocosmist) - FULL-TIME ENTHUSIAST | [Telegram](https://t.me/antropocosmist) | Discord: antropocosmist
 - [Albert Andrejev](https://github.com/albertandrejev) - FULL-STACK DEVELOPER        | [Telegram](https://t.me/Albert_OpenTech) | Discord: albertopentstaking
-- [Vova Synthetic](https://www.instagram.com/synth_etic_/) - CONTENT CREATOR         | [Telegram](https://t.me/synth_etic) | Discord: synthetic8335
+- [Vova Synthetic](https://github.com/SyntheticV) - CONTENT CREATOR                  | [Telegram](https://t.me/synth_etic) | Discord: synthetic8335
 - [Valentin Medniy](https://github.com/Medniyy) - COMMUNITY DEVELOPER                | [Telegram](https://t.me/privetandreynugdejeti) | Discord: medniyy
 - [Mikhail Krogla](https://github.com/krogla) - FULL-STACK DEVELOPER                 | [Telegram](https://t.me/krogla) | Discord: krogla
 - [Evgeny Yakovishin](https://github.com/evgen3000) - BACK-END DEVELOPER             | [Telegram](https://t.me/lhavebeen) | Discord: evgen3000
