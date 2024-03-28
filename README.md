@@ -16,15 +16,16 @@
 
 |           NAME         | ROLE | GITHUB | TELEGRAM | DISCORD |
 |------------------------|:-----------------:|:----------------------:|:----:|:------:|
-| Vladimir Understanding |         +         |                        |  +   |   30   |
-| Albert Andrejev        |         +         |                        |      |   25   |
-| Vova Synthetic         |         +         |                        |  +   |   30   |
-| Valentin Medniy        |         +         |                        |      |   25   |
-| Mikhail Krogla         |                   |           +            |      |   20   |
-| Evgeny Yakovishin      |                   |           +            |      |   20   |
-| Danil Milyutin         |         +         |                        |  +   |   30   |
-| Ekaterina Volkova      |         +         |                        |      |   25   |
-| Sergey Orion           |         +         |                        |  +   |   30   |
-| Nikita Web34ever       |         +         |                        |      |   25   |
-| Vadim CyberG           |                   |           +            |      |   20   |
-| Asanka Kasum           |                   |           +            |      |   20   |
+| Vladimir Understanding | FULL-TIME ENTHUSIAST |                        |  +   |   30   |
+| Albert Andrejev        | FULL-STACK DEVELOPER |                        |      |   25   |
+| Vova Synthetic         | CONTENT CREATOR |                        |  +   |   30   |
+| Valentin Medniy        | COMMUNITY DEVELOPER |                        |      |   25   |
+| Mikhail Krogla         | FULL-STACK DEVELOPER |           +            |      |   20   |
+| Evgeny Yakovishin      | BACK-END DEVELOPER |           +            |      |   20   |
+| Danil Milyutin         | DESIGN & COMMUNITY |                        |  +   |   30   |
+| Ekaterina Volkova      | COMMUNITY DEVELOPER |                        |      |   25   |
+| Sergey Orion           | COMMUNITY DEVELOPER |                        |  +   |   30   |
+| Nikita Web34ever       | TEST-NET DEVELOPMENT |                        |      |   25   |
+| Vadim CyberG           | TEST-NET DEVELOPMENT |           +            |      |   20   |
+| Sergey Stribul         | FULL-STACK DEVELOPER |           +            |      |   20   |
+| Asanka Kasum           | COMMUNITY DEVELOPER |           +            |      |   20   |
