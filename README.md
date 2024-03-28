@@ -14,17 +14,17 @@
 - [Sergey Stribul](https://github.com/stribulsergey) - FULL-STACK DEVELOPER          | [Telegram](https://t.me/ssargiuz) | Discord: ssargiuz |
 - [Asanka Kasum](https://twitter.com/AsankaKasum) - COMMUNITY DEVELOPER              | [Telegram](https://t.me/Asa332) | Discord: asa332 |
 
-| NAME  | ROLE | GITHUB | TELEGRAM | DISCORD |
-|------------|:-----------------:|:----------------------:|:----:|:------:|
-| Vladimir Understanding     |         +         |                        |  +   |   30   |
-| Albert Andrejev |         +         |                        |      |   25   |
-| Vova Synthetic    |         +         |                        |  +   |   30   |
+|           NAME         | ROLE | GITHUB | TELEGRAM | DISCORD |
+|------------------------|:-----------------:|:----------------------:|:----:|:------:|
+| Vladimir Understanding |         +         |                        |  +   |   30   |
+| Albert Andrejev        |         +         |                        |      |   25   |
+| Vova Synthetic         |         +         |                        |  +   |   30   |
 | Valentin Medniy        |         +         |                        |      |   25   |
-| Mikhail Krogla |                   |           +            |      |   20   |
-| Evgeny Yakovishin  |                   |           +            |      |   20   |
-| Danil Milyutin |         +         |                        |  +   |   30   |
-| Ekaterina Volkova |         +         |                        |      |   25   |
-| Sergey Orion |         +         |                        |  +   |   30   |
-| Nikita Web34ever  |         +         |                        |      |   25   |
-| Vadim CyberG |                   |           +            |      |   20   |
-| Asanka Kasum  |                   |           +            |      |   20   |
+| Mikhail Krogla         |                   |           +            |      |   20   |
+| Evgeny Yakovishin      |                   |           +            |      |   20   |
+| Danil Milyutin         |         +         |                        |  +   |   30   |
+| Ekaterina Volkova      |         +         |                        |      |   25   |
+| Sergey Orion           |         +         |                        |  +   |   30   |
+| Nikita Web34ever       |         +         |                        |      |   25   |
+| Vadim CyberG           |                   |           +            |      |   20   |
+| Asanka Kasum           |                   |           +            |      |   20   |
