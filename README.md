@@ -15,4 +15,4 @@
 | Sergey Stribul         | FULL-STACK DEVELOPER | [stribulsergey](https://github.com/stribulsergey)   | [@ssargiuz](https://t.me/ssargiuz)               | ssargiuz |
 | Asanka Kasum           | COMMUNITY DEVELOPER  | [Asa332](https://github.com/Asa332)                 | [@Asa332](https://t.me/Asa332)                   | asa332 |
 | Olim      | FULL-STACK DEVELOPER   | [olimdzhon](https://github.com/olimdzhon)           | [@write2sd](https://t.me/write2sd)             | write2sd |
-| Ann      | DESiGn & ART   | [mobius080](https://github.com/mobius080)           | [@mo8ius](https://t.me/mo8ius)             | mo8ius |
+| Ann      | DESIGN & ART   | [mobius080](https://github.com/mobius080)           | [@mo8ius](https://t.me/mo8ius)             | mo8ius |
