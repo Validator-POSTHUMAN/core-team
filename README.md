@@ -16,3 +16,4 @@
 | Asanka Kasum           | COMMUNITY DEVELOPER  | [Asa332](https://github.com/Asa332)                 | [@Asa332](https://t.me/Asa332)                   | asa332 |
 | Olim      | FULL-STACK DEVELOPER   | [olimdzhon](https://github.com/olimdzhon)           | [@write2sd](https://t.me/write2sd)             | write2sd |
 | Ann      | DESIGN & ART   | [mobius080](https://github.com/mobius080)           | [@mo8ius](https://t.me/mo8ius)             | mo8ius |
+| Marina      | UI/UX   | [gingertigra](https://github.com/gingertigra)           | [@gingertigra](https://t.me/gingertigra)             | gingertigra |
