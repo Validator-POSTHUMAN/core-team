@@ -8,7 +8,7 @@
 | Valentin Medniy        | COMMUNITY DEVELOPER  | [Medniyy](https://github.com/Medniyy)               | [@privetandreynugdejeti](https://t.me/privetandreynugdejeti) | medniyy |
 | Mikhail Krogla         | FULL-STACK DEVELOPER | [krogla](https://github.com/krogla)                 | [@krogla](https://t.me/krogla)                   | krogla |
 | Danil Milyutin         | DESIGN & COMMUNITY   | [avallonn](https://github.com/avallonn)             | [@avalonweb](https://t.me/avalonweb)             | ava_lon |
-| Ekaterina Volkova      | COMMUNITY DEVELOPER  | [loomay](https://github.com/loomay)                 | [@wlkatja](https://t.me/wlkatja)                 | wlkatja |
+| Ekaterina Volkova      | COMMUNITY DEVELOPER  | [k8atja](https://github.com/k8atja)                 | [@wlkatja](https://t.me/wlkatja)                 | wlkatja |
 | Sergey Orion           | COMMUNITY DEVELOPER  | [orion-s-s](https://github.com/orion-s-s)           | [@s_orion](https://t.me/s_orion)                 | orion8683 |
 | Nikita Web34ever       | TEST-NET DEVELOPMENT | [web3validator](https://github.com/web3validator)   | [@web34ever](https://t.me/web34ever)             | web34ever |
 | Vadim CyberG           | TEST-NET DEVELOPMENT | [Vgk88](https://github.com/Vgk88)                   | [@cryptoq11](https://t.me/cryptoq11)             | cyberg |
