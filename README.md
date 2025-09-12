@@ -5,7 +5,6 @@
 | Vladimir Understanding | FULL-TIME ENTHUSIAST | [Antropocosmist](https://github.com/Antropocosmist) | [@antropocosmist](https://t.me/antropocosmist)   | antropocosmist |
 | Albert Andrejev        | FULL-STACK DEVELOPER | [albertandrejev](https://github.com/albertandrejev) | [@Albert_OpenTech](https://t.me/Albert_OpenTech) | albertopentstaking |
 | Vova Synthetic         | CONTENT CREATOR      | [SyntheticV](https://github.com/SyntheticV)         | [@synth_etic](https://t.me/synth_etic)           | synthetic8335 |
-| Valentin Medniy        | COMMUNITY DEVELOPER  | [Medniyy](https://github.com/Medniyy)               | [@privetandreynugdejeti](https://t.me/privetandreynugdejeti) | medniyy |
 | Mikhail Krogla         | FULL-STACK DEVELOPER | [krogla](https://github.com/krogla)                 | [@krogla](https://t.me/krogla)                   | krogla |
 | Danil Milyutin         | FRONTEND & COMMUNITY DEV   | [avalonweb](https://github.com/avalonweb3)             | [@avalonweb](https://t.me/avalonweb)             | ava_lon |
 | Sergey Orion           | COMMUNITY DEVELOPER  | [orion-s-s](https://github.com/orion-s-s)           | [@s_orion](https://t.me/s_orion)                 | orion8683 |
