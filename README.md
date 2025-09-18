@@ -6,7 +6,6 @@
 | Albert Andrejev        | FULL-STACK DEVELOPER | [albertandrejev](https://github.com/albertandrejev) | [@Albert_OpenTech](https://t.me/Albert_OpenTech) | albertopentstaking |
 | Vova Synthetic         | CONTENT CREATOR      | [SyntheticV](https://github.com/SyntheticV)         | [@synth_etic](https://t.me/synth_etic)           | synthetic8335 |
 | Mikhail Krogla         | FULL-STACK DEVELOPER | [krogla](https://github.com/krogla)                 | [@krogla](https://t.me/krogla)                   | krogla |
-| Danil Milyutin         | FRONTEND & COMMUNITY DEV   | [avalonweb](https://github.com/avalonweb3)             | [@avalonweb](https://t.me/avalonweb)             | ava_lon |
 | Sergey Orion           | COMMUNITY DEVELOPER  | [orion-s-s](https://github.com/orion-s-s)           | [@s_orion](https://t.me/s_orion)                 | orion8683 |
 | Nikita Web34ever       | TEST-NET DEVELOPMENT | [web3validator](https://github.com/web3validator)   | [@web34ever](https://t.me/web34ever)             | web34ever |
 | Vadim CyberG           | TEST-NET DEVELOPMENT | [Vgk88](https://github.com/Vgk88)                   | [@cryptoq11](https://t.me/cryptoq11)             | cyberg |
